@@ -114,7 +114,7 @@
     <!-- XHED: Notification title -->
     <string name="notification_headline">"Corona-Warn-App"</string>
     <!-- XTXT: Notification body -->
-    <string name="notification_body">"You have new messages from your Corona-Warn-App."</string>
+    <string name="notification_body">"You have a shitton of new messages from your Corona-Warn-App."</string>
 
     <!-- ####################################
               App Auto Update
