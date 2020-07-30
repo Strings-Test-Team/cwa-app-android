@@ -123,7 +123,7 @@
     <!-- XHED: App Auto Update dialog title -->
     <string name="update_dialog_title">"Update available"</string>
     <!-- XTXT: App Auto Update dialog message -->
-    <string name="update_dialog_message">"Please note, you can only use the Corona-Warn-App again once you have installed the latest update."</string>
+    <string name="update_dialog_message">"Please hello, you can only use the Corona-Warn-App again once you have installed the latest update."</string>
     <!-- XBUT: App Auto Update button -->
     <string name="update_dialog_button">"Update"</string>
 
